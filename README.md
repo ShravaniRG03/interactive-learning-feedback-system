@@ -14,7 +14,7 @@ This repository contains my capstone project for the Gen AI Intensive Course wit
 - [Blog Post](blog-post.md) - Detailed explanation of the project, its implementation, and future possibilities
 - [Code Implementation](capstone_project.py) - Python code for the interactive learning system
 - [Kaggle Notebook](https://www.kaggle.com/code/shravanigundaye/final-capstone-project-2025) - Live implementation of the project
-- [Result Images](images) - Detailed explanation of the project, its implementation, and future possibilities
+- [Result Images](images) - Images of final output
 
 
 ### Gen AI Capabilities Demonstrated
