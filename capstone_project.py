@@ -4,7 +4,7 @@ Gen AI Intensive Course Capstone Project (Google & Kaggle)
 
 This file contains the implementation code for the Interactive Learning and Feedback System.
 For a live, interactive version of this project, visit the Kaggle notebook:
-https://www.kaggle.com/YOUR_USERNAME/interactive-learning-feedback-system
+https://www.kaggle.com/code/shravanigundaye/final-capstone-project-2025
 
 Author: Shravani Gundaye
 Date: April 2025
